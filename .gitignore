@@ -1,0 +1,6 @@
+# Basic Stuff
+*/node_modules
+.vscode
+
+# Individual projects which have their own git repos
+my-site/
