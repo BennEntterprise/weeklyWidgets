@@ -42,7 +42,7 @@ Confirm Those Installations
 
 
 
-## 1 My-Site
+## Project 0 My-Site
 Description: 
 
 A site that will be your portfolio! As we build projects, we'll update this site so that it points at those projects! It may not look like much at first, but as time goes on you'll be able to watch it grow!
