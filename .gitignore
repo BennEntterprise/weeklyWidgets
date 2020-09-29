@@ -3,4 +3,8 @@
 .vscode
 
 # Individual projects which have their own git repos
-my-site/
+00-my-site/
+01-say-hi-button/
+02-move-the-box/
+03-wheres-my-mouse-keypress/
+04-color-pallet/
